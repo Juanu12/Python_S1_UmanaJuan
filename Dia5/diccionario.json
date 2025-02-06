@@ -1,0 +1,12 @@
+
+{
+  "Inmuebles a":
+  [{"año":2000, "Metros":100, "habitaciones":3, "Garaje": true}, {"año":1980, "Metros":120, "habitaciones":2, "Garaje": false }, {"año":2000, "Metros":100, "habitaciones":3, "Garaje": true} , {"año":2015, "Metros":90, "habitaciones":2, "Garaje": false }]  
+
+  {
+    "Inmuebles b":  
+  [{"año":2012, "Metros":60, "habitaciones":2, "Garaje": true}] } , [{"año":2005, "Metros":75, "habitaciones":3, "Garaje": true }
+
+}
+
+
