@@ -31,6 +31,14 @@ En el cuarto ejercicio,se pidde un algoritmo que tome 10 numeros ingresados por 
 En el quinto ejercicio se pide mostrar el numero que sigue en una secuencia dada, entonces el algoritmo lo muestra
 ![image](https://github.com/user-attachments/assets/18c324a9-5e2a-4699-83ae-95cdc311a38d)
 
+En el sexto ejercicio se tiene un caso de una empresa que quiere  mostrar una estadística con los totales de los salarios brutos, EPS, Pensión y salarios
+netos de sus empleados. Luego mostrar el empleado que más gana en salario neto, el empleado
+que menos gana en salario neto y los promedios de sueldos brutos y sueldos
+netos. El algoritmo pide la cantidad de empleados, su nombre y sueldo neto y bruto, luego hace promedios de los sueldos , imprime el emplelado que mas y menos ganan y el promedio de los sueldos de todos los empleados.
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/92e14a32-97d7-41d2-bc57-e41d369347f3" />
+
+
+
 
 - Ítem 2
 - Ítem 3
